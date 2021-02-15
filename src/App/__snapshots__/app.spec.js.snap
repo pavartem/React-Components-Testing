@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Info component should render Info component 1`] = `
+<Fragment>
+  <h1>
+    App
+  </h1>
+  <Posts />
+  <Pagination
+    lastPage={0}
+    onClick={[Function]}
+    page={0}
+  />
+</Fragment>
+`;
